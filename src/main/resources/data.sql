@@ -1,0 +1,5 @@
+INSERT INTO STATES(nome, regiao, populacao, capital, area, data_de_fundacao, tempo_desde_fundacao) VALUES('PERNAMBUCO', 'NORDESTE',  9278000, 'RECIFE', 98312, '1537-03-12', 484);
+INSERT INTO STATES(nome, regiao, populacao, capital, area, data_de_fundacao, tempo_desde_fundacao) VALUES('AMAZONAS', 'NORTE',  3874000, 'MANAUS', 1571000, '1822-07-07', 199);
+INSERT INTO STATES(nome, regiao, populacao, capital, area, data_de_fundacao, tempo_desde_fundacao) VALUES('PARANÁ', 'SUL',  1108000, 'CURITIBA', 199315, '1822-07-07', 199);
+INSERT INTO STATES(nome, regiao, populacao, capital, area, data_de_fundacao, tempo_desde_fundacao) VALUES('MINAS GERAIS', 'SUDESTE',  20870000, 'BELO HORIZONTE', 586528, '1822-07-07', 199);
+INSERT INTO STATES(nome, regiao, populacao, capital, area, data_de_fundacao, tempo_desde_fundacao) VALUES('GOIÁS', 'CENTRO-OESTE',  6523000, 'GOIÂNIA', 340086, '1889-11-15', 132);
